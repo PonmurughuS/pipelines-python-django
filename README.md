@@ -1,5 +1,5 @@
 # Sample Python app for Azure Pipelines docs
-
+[![Build Status](https://ponz.visualstudio.com/Python_Django/_apis/build/status/Python_Django-CI)](https://ponz.visualstudio.com/Python_Django/_build/latest?definitionId=3)
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
 
 | Example | Build status |
